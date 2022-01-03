@@ -1,1 +1,2 @@
 # webspider
+## WSL vscode miniconda
