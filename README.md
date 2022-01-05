@@ -10,3 +10,4 @@ urllib test finished
 ----
 . 
 test
+requests package need install new env
